@@ -1,0 +1,37 @@
+Document Object Model
+
+- After Parsing the HTML Page the all element are structure in Tree Format.
+- Way of Orgainising the elements in tree is easy to access the element i.e, Searching and Reducing the access time using algorithm such as BST.
+- Element consider as Object
+- Methods to access all the HTML Element
+- Event driven, when event occurs then particular object trigger
+- Element encapsulate elements in Object and Easily accessible.
+
+
+The HTML DOM model is below : 
+						
+										
+													
+														
+														
+															HTML Document
+																|
+																|
+																|
+															Root Element
+																|
+																|
+															  Element 
+															  <body>
+																|
+													----------------------------
+													|						   	|
+													|							|
+												Element						Element
+												<head>						<body>
+													|							|
+													|							|
+												Element 						|
+												<title>						Element
+												    |						  <p>	
+												 Title
