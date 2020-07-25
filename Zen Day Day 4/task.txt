@@ -1,0 +1,61 @@
+https://github.com/Bharanij27/ZenClass/blob/master/week1/Day%204/Fix-Post.js
+
+
+https://github.com/reach2arunprakash/json-server-heroku
+
+
+> Auth -- No Auth mean easiyly hit 
+and 
+Cors -- 
+
+
+> difference between div and section
+  
+> absloute path - html
+  Absolute Path in html is actual address of the url and it content whole address of web page
+> Relative Path - Html  
+  Relative Path can be used to refer internal folder for webpage and have 2 or 3 level tree strucutre.
+
+
+> Ready Following topics : 
+
+window.document
+ Window.document is property of Window Object and It content to all window Property like below :
+   window.document.getElementById('title'); is same as document.getElementById('title');
+Window.localStorage
+   The localStorage and sessionStorage properties allow to save key/value pairs in a web browser.
+   The localStorage object stores data with no expiration date. The data will not be deleted when the browser is closed,
+   and will be available the next day, week, or year.
+   The localStorage property is read-only.
+Window.location 
+   Object can be used to get the current page address (URL) and to redirect the browser to a new page.
+Window.name
+   This property is often used to modify the name of a window, after the window has been created.
+Window.sessionStorage 
+   The sessionStorage object stores data for only one session (the data is deleted when the browser tab is closed).
+  
+
+  https://www.atlassian.com/git/tutorials/install-git#windows
+
+
+> Try in Browser console and try to get Window.a and window.f1
+
+var a = 10;
+
+function f1() {
+  var b = 10;
+}
+
+> Best Programming Practice
+
+worst way to do ---> undef.tt ==>err 
+
+1. Best way do it  
+if(obj.f1() != undef)
+{
+  console.log(obj.f1().tt);
+}
+2. try catch
+Object.keys(a).length
+
+> Resume Building in HTML Task ;
