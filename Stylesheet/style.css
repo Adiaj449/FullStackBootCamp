@@ -1,0 +1,62 @@
+.self-info
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 03%;
+    margin-top : 02%;
+}
+
+a{
+    text-decoration: none !important;
+    color:black;
+}
+
+.profile-info
+{
+    margin-top: 30%;
+    margin-left: 25%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.about
+{
+    background-color:beige;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color:black !important;
+    border-bottom: 10px solid white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.education
+{
+    
+    background-color:ghostwhite;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-bottom: 10px solid white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.research_paper
+{
+    background-color:beige;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-bottom: 10px solid white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.awards
+{
+    background-color:ghostwhite;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.footer-info
+{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white;
+}
