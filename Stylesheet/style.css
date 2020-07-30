@@ -1,8 +1,20 @@
+.header-info
+{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white;
+}
+.menu
+{
+    padding-left: 10px;
+    color: white;
+}
 .self-info
 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-left: 03%;
-    margin-top : 02%;
+     
 }
 
 a{
@@ -12,8 +24,7 @@ a{
 
 .profile-info
 {
-    margin-top: 30%;
-    margin-left: 25%;
+    margin-top: 20%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -23,7 +34,7 @@ a{
     padding-top: 2%;
     padding-bottom: 2%;
     color:black !important;
-    border-bottom: 10px solid white;
+    border-bottom: 20px solid white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .education
@@ -32,7 +43,7 @@ a{
     background-color:ghostwhite;
     padding-top: 2%;
     padding-bottom: 2%;
-    border-bottom: 10px solid white;
+    border-bottom: 20px solid white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -41,7 +52,7 @@ a{
     background-color:beige;
     padding-top: 2%;
     padding-bottom: 2%;
-    border-bottom: 10px solid white;
+    border-bottom: 20px solid white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .awards
@@ -49,6 +60,7 @@ a{
     background-color:ghostwhite;
     padding-top: 2%;
     padding-bottom: 2%;
+    border-bottom: 20px solid white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 

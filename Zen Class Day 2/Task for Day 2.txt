@@ -1,7 +1,0 @@
-
-Print for all countries 
------------------------
-name
-capital
-flag
-languages
