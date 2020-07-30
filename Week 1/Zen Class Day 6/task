@@ -1,0 +1,45 @@
+https://stackoverflow.com/questions/50844095/should-one-use-for-of-or-foreach-when-iterating-through-an-array
+https://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript#:~:text=It%20is%20more%20concise%20than,you%20can%20with%20forEach()%20.
+
+
+what is cors and auth?
+
+what is proxy?
+what is Fetch in api javascript
+
+
+Response Text and Response
+
+The response is interpreted into a ArrayBuffer , Blob , Document , 
+JavaScript object, or a DOMString , depending on the value of XMLHttpRequest.
+ responseType . responseText , on the other hand is the raw text, and you can handle it however you want.
+
+ XMLHttpRequest http request
+
+
+
+JSON task 
+https://medium.com/@reach2arunprakash/guvi-zen-code-sprint-javascript-practice-problems-in-json-objects-and-list-49ac3356a8a5
+Add error handling to the xmlhttprequest code
+Convert the ppt into a writeup 
+https://www.slideshare.net/nzakas/enterprise-javascript-error-handling-presentation/25-C_ommunication_E_rrors_Invalid
+Find the fix – for the error slide
+
+
+https://www.youtube.com/watch?v=SmE4OwHztCc
+
+
+What is the difference between window, screen, and document in Javascript?
+JSON task 
+https://medium.com/@reach2arunprakash/guvi-zen-code-sprint-javascript-practice-problems-in-json-objects-and-list-49ac3356a8a5
+Add error handling to the xmlhttprequest code
+Convert the ppt into a writeup 
+https://www.slideshare.net/nzakas/enterprise-javascript-error-handling-presentation/25-C_ommunication_E_rrors_Invalid
+Find the fix – for the error slide
+https://www.youtube.com/watch?v=SmE4OwHztCc
+
+
+
+WHAT IS WINDOW IN ERROR AND BROWSER
+
+what is debug mode

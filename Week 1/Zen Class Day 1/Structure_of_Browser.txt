@@ -1,0 +1,41 @@
+Web Browser Structure
+
+The web browser is divided into following Blocks :
+
+1) User Interface : 
+The user interface is where user can interact with system by using WEB URL. 
+Different browser contains different functionality,Depend and requirment user can select the available browser in market
+
+Some key features of UI : 
+
+	1) URL Bar
+	2) Back button    : Used for go to Previous page.
+	3) Forward Button : Used to go to Next visited Page.
+	4) Inspect        : Used to see the Source code of web page.
+	5) History        : History of visited Pages.
+
+2) Browser Engine
+
+This part is make a communication with Rendering engine and User Interface.
+
+3) Rendering Engine
+
+The Rendering Engine display the content requested by URL and that can be available in HTML, Images and PDF if extension is installed.
+Different browsers use different rendering engines:
+
+	1) Internet Explorer uses Trident 
+	2) Firefox uses Gecko
+	3) Safari uses WebKit
+	4) Chrome and Opera (from version 15) use Blink, a fork of WebKit.
+	
+4) Database Section
+
+It store the temp or permanent data in browser memory and can be delete by manually. e.g. Cache and Cookies.
+
+5) Networking Section
+ 
+For network calls such as HTTP requests, using different implementations for different platform behind a platform-independent interface.
+
+6) JavaScript interpreter
+
+Used to parse and execute JavaScript code.
